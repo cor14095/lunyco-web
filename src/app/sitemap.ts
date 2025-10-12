@@ -1,6 +1,6 @@
 import type { MetadataRoute } from 'next';
-import { getAllPosts } from '../content/blog/posts-mock';
-import { getAllProjects } from '../content/projects/projects-mock';
+import { getAllPosts } from '@/content/blog/posts-mock';
+import { getAllProjects } from '@/content/projects/projects-mock';
 
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {

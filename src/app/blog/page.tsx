@@ -1,5 +1,6 @@
-import { PostCard } from '@/src/components/post-card';
-import { getAllPosts } from '@/src/content/blog/posts-mock';
+import { PostCard } from "@/components/post-card";
+import { getAllPosts } from "@/content/blog/posts-mock";
+
 
 export const revalidate = 300;
 

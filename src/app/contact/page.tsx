@@ -1,4 +1,4 @@
-import ContactForm from '@/src/components/contact-form';
+import ContactForm from "@/components/contact-form";
 
 export const dynamic = 'force-static';
 

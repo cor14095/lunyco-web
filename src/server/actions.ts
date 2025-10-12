@@ -1,6 +1,6 @@
 'use server';
 import { z } from 'zod';
-import { ApiError } from '../interfaces/api';
+import { ApiError } from '@/types/api';
 
 const Input = z.object({ name: z.string(), email: z.string().email(), message: z.string() });
 

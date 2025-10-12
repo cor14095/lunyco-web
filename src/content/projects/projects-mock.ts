@@ -1,4 +1,4 @@
-import { Project } from '@/src/interfaces/projects';
+import type { Project } from '@/types/projects';
 import baxzarImage from './baxzar.jpg';
 
 const projects: Project[] = [

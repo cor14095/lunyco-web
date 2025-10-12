@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import type { Project } from '@/src/interfaces/projects';
+import type { Project } from '@/types/projects';
 
 
 export function ProjectCard({ project }: { project: Project }) {

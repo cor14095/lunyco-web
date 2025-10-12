@@ -1,5 +1,5 @@
-import { ProjectCard } from '@/src/components/project-card';
-import { getAllProjects } from '@/src/content/projects/projects-mock';
+import { ProjectCard } from '@/components/project-card';
+import { getAllProjects } from '@/content/projects/projects-mock';
 
 export const revalidate = 300;
 

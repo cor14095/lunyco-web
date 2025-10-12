@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
-import { getAllProjects, getProjectBySlug } from '@/src/content/projects/projects-mock';
+import { getAllProjects, getProjectBySlug } from '@/content/projects/projects-mock';
 
 export const revalidate = 300;
 

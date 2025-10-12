@@ -1,7 +1,7 @@
 'use client';
 import { useState, useTransition } from 'react';
 import { z } from 'zod';
-import { sendMessage } from '@/src/server/actions';
+import { sendMessage } from '@/server/actions';
 
 
 const schema = z.object({

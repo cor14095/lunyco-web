@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import type { PostMeta } from '../interfaces/posts';
+import type { PostMeta } from '@/types/posts';
 
 export function PostCard({ post }: { post: PostMeta }) {
   return (

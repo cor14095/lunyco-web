@@ -1,4 +1,4 @@
-import { getAllPosts, getPostBySlug } from '@/src/content/blog/posts-mock';
+import { getAllPosts, getPostBySlug } from '@/content/blog/posts-mock';
 import { notFound } from 'next/navigation';
 
 export const revalidate = 300;

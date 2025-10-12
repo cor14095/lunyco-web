@@ -1,8 +1,8 @@
 import Link from 'next/link';
-import { PostCard } from '../components/post-card';
-import { ProjectCard } from '../components/project-card';
-import { getAllPosts } from '../content/blog/posts-mock';
-import { getAllProjects } from '../content/projects/projects-mock';
+import { PostCard } from '@/components/post-card';
+import { ProjectCard } from '@/components/project-card';
+import { getAllPosts } from '@/content/blog/posts-mock';
+import { getAllProjects } from '@/content/projects/projects-mock';
 
 export const revalidate = 60; // ISR for homepage
 
