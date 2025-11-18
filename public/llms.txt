@@ -1,0 +1,45 @@
+# Lunyco - Alejandro Cortes Portfolio
+
+## Overview
+Personal portfolio website showcasing full-stack development projects, AI engineering work, and technical blog posts.
+
+## Author
+- Name: Alejandro Cortes
+- Role: Full-Stack Engineer & AI Enthusiast
+- Email: ale@lunyco.com
+- Website: https://lunyco.com
+
+## Tech Stack
+- Frontend: Next.js 16, React 19, TypeScript, Tailwind CSS 4
+- Backend Experience: Django, Django REST Framework, Node.js
+- Databases: PostgreSQL
+- Cloud: AWS (Amplify, RDS, AppRunner, Secrets Manager)
+- Testing: Cypress, Playwright, Jest
+- AI/ML: RAG, Embeddings, LangChain (in progress)
+
+## Work Experience
+- The SilverLogic - Full-Stack & Automation Engineer (2024-Present)
+- Freelance - Full-Stack Engineer (2023-Present)
+- Xoom/PayPal - Senior QA Automation (2020-2024)
+- Zuntex - Lead Software Engineer (2019-2020)
+
+## Skills
+TypeScript, Next.js, React, Django, DRF, Node.js, PostgreSQL, AWS, CI/CD, Cypress, Playwright, Jest, Tailwind CSS, RAG/Embeddings
+
+## Projects
+### Baxzar Platform
+Full-stack e-commerce solution featuring user authentication, product management, shopping cart, and Stripe payment integration. Built with Next.js frontend and Django REST API backend.
+- Tech: Next.js 15, TypeScript, Django, DRF, PostgreSQL, Stripe, Tailwind CSS, AWS
+- URL: https://www.baxzar.com
+
+## Navigation
+- Home: https://lunyco.com/
+- Projects: https://lunyco.com/projects
+- Blog: https://lunyco.com/blog
+- Contact: https://lunyco.com/contact
+
+## Sitemap
+https://lunyco.com/sitemap.xml
+
+## Last Updated
+November 18, 2025

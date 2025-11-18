@@ -1,0 +1,122 @@
+{
+  "personalInfo": {
+    "name": "Alejandro Cortes",
+    "title": "Full-Stack Engineer & QA Automation Specialist",
+    "email": "ale@lunyco.com",
+    "location": "Remote",
+    "summary": "Full-Stack Engineer specializing in Next.js and Django, with expertise in QA Automation and a growing focus on AI Engineering. I build public, production-grade applications with exceptional developer experience, comprehensive testing, and clean infrastructure."
+  },
+  "experience": [
+    {
+      "id": "tsl",
+      "company": "The SilverLogic",
+      "position": "Full-Stack & Automation Engineer",
+      "location": "Remote",
+      "startDate": "2024-01",
+      "endDate": null,
+      "current": true,
+      "description": "Building modern web applications and automation solutions for diverse clients.",
+      "highlights": [
+        "Developed full-stack applications using Next.js 16, React 19, and Django REST Framework",
+        "Implemented CI/CD pipelines with GitHub Actions and AWS deployment",
+        "Created comprehensive test suites using Cypress, Playwright, and Jest",
+        "Architected scalable solutions with TypeScript and PostgreSQL"
+      ],
+      "technologies": ["Next.js", "React", "TypeScript", "Django", "DRF", "PostgreSQL", "AWS", "Cypress", "Playwright"]
+    },
+    {
+      "id": "freelance",
+      "company": "Freelance",
+      "position": "Full-Stack Engineer",
+      "location": "Remote",
+      "startDate": "2023-01",
+      "endDate": null,
+      "current": true,
+      "description": "Providing full-stack development services for various clients and personal projects.",
+      "highlights": [
+        "Built e-commerce platform (Baxzar) with Next.js frontend and Django backend",
+        "Integrated Stripe payment processing and admin dashboards",
+        "Deployed applications on AWS Amplify with SSR and database integration",
+        "Implemented modern UI/UX with Tailwind CSS and Shadcn/UI"
+      ],
+      "technologies": ["Next.js", "Django", "Stripe", "AWS Amplify", "Tailwind CSS", "PostgreSQL"]
+    },
+    {
+      "id": "xoom",
+      "company": "Xoom / PayPal",
+      "position": "Senior QA Automation Engineer",
+      "location": "Remote",
+      "startDate": "2020-01",
+      "endDate": "2024-01",
+      "current": false,
+      "description": "Led QA automation efforts for Xoom's international money transfer platform.",
+      "highlights": [
+        "Designed and implemented comprehensive E2E test automation framework",
+        "Reduced regression testing time by 70% through automated test suites",
+        "Mentored junior QA engineers on automation best practices",
+        "Collaborated with development teams to ensure quality standards"
+      ],
+      "technologies": ["Cypress", "Selenium", "JavaScript", "TypeScript", "Jenkins", "CI/CD"]
+    },
+    {
+      "id": "zuntex",
+      "company": "Zuntex",
+      "position": "Lead Software Engineer",
+      "location": "Guatemala",
+      "startDate": "2019-01",
+      "endDate": "2020-01",
+      "current": false,
+      "description": "Led development team and architected enterprise solutions.",
+      "highlights": [
+        "Led team of 5 developers in building enterprise applications",
+        "Architected microservices-based solutions",
+        "Implemented agile development practices",
+        "Delivered projects on time and within budget"
+      ],
+      "technologies": ["Node.js", "React", "MongoDB", "Microservices", "Docker"]
+    }
+  ],
+  "education": [
+    {
+      "id": "master-data-analytics",
+      "institution": "Universidad del Valle de Guatemala",
+      "degree": "Master in Bussiness Inteligence and Data Analytics",
+      "field": "Software Engineering",
+      "startDate": "2020-01",
+      "endDate": "2022-12",
+      "description": "Bussiness Intelligence and Data Analytics with focus on data-driven decision making and advanced analytics techniques."
+    },
+    {
+      "id": "cs-degree",
+      "institution": "Universidad del Valle de Guatemala",
+      "degree": "Computer Science",
+      "field": "Software Engineering",
+      "startDate": "2015-01",
+      "endDate": "2019-12",
+      "description": "Focused on software engineering, algorithms, and system design."
+    }
+  ],
+  "skills": {
+    "frontend": ["TypeScript", "Next.js 16", "React 19", "Tailwind CSS", "Shadcn/UI"],
+    "backend": ["Django", "Django REST Framework", "Node.js", "PostgreSQL"],
+    "cloud": ["AWS Amplify", "AWS RDS", "AWS Secrets Manager"],
+    "testing": ["Cypress", "Playwright", "Jest", "Test Automation"],
+    "tools": ["Git", "GitHub Actions", "CI/CD", "Docker"],
+    "emerging": ["RAG", "Embeddings", "AI Engineering"]
+  },
+  "certifications": [],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Professional Working Proficiency"
+    },
+    {
+      "language": "Italian",
+      "proficiency": "Professional Working Proficiency"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    }
+  ]
+}

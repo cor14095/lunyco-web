@@ -1,0 +1,28 @@
+/* TEAM */
+Developer: Alejandro Cortes
+Contact: ale@lunyco.com
+From: Based remotely
+Portfolio: https://lunyco.com
+
+/* SITE */
+Last update: 2025/11/18
+Standards: HTML5, CSS3, JavaScript ES2024
+Components: React 19, Next.js 16, TypeScript 5
+Styling: Tailwind CSS 4, Shadcn/UI
+IDE: Visual Studio Code
+
+/* TECHNOLOGIES */
+Frontend: Next.js 16, React 19, TypeScript
+Styling: Tailwind CSS 4, Shadcn/UI
+Backend: Django, Django REST Framework
+Database: PostgreSQL
+Cloud: AWS (Amplify, RDS, AppRunner)
+Testing: Cypress, Playwright, Jest
+CI/CD: GitHub Actions
+AI/ML: LangChain, RAG, Embeddings (in progress)
+
+/* THANKS */
+- Next.js team for the amazing framework
+- Vercel for hosting and tools
+- Shadcn for the beautiful component library
+- The open-source community

@@ -1,0 +1,24 @@
+# Lunyco Portfolio
+
+> Alejandro Cortes - Full-Stack Engineer transitioning to AI Engineering
+
+## About
+Professional portfolio showcasing full-stack development expertise with Next.js, Django, and cloud infrastructure. Currently expanding into AI/ML engineering with focus on RAG systems and embeddings.
+
+## Contact
+- Email: ale@lunyco.com
+- Portfolio: https://lunyco.com
+- Location: Available for remote opportunities
+
+## Expertise
+Full-Stack Development | Next.js | Django | TypeScript | React | PostgreSQL | AWS | Test Automation | AI/ML (Learning)
+
+## Featured Project
+**Baxzar Platform** - Modern e-commerce platform with Next.js 15 + Django REST API
+https://www.baxzar.com
+
+## Links
+- Projects: /projects
+- Blog: /blog
+- Contact Form: /contact
+- Sitemap: /sitemap.xml
