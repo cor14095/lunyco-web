@@ -39,7 +39,7 @@ export function Timeline({ experiences, compact = false }: TimelineProps) {
       {/* Timeline line */}
       <div className="absolute left-0 top-0 bottom-0 w-0.5 bg-gradient-to-b from-primary via-primary/50 to-transparent hidden md:block" />
 
-      {experiences.map((exp, index) => (
+      {experiences.map((exp) => (
         <motion.div
           key={exp.id}
           variants={item}

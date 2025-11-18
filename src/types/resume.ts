@@ -44,6 +44,6 @@ export interface ResumeData {
     tools: string[];
     emerging: string[];
   };
-  certifications: any[];
+  certifications: string[];
   languages: Language[];
 }
