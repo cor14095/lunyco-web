@@ -26,20 +26,49 @@ Personal portfolio website showcasing full-stack development projects, AI engine
 ## Skills
 TypeScript, Next.js, React, Django, DRF, Node.js, PostgreSQL, AWS, CI/CD, Cypress, Playwright, Jest, Tailwind CSS, RAG/Embeddings
 
-## Projects
+## Featured Projects
+
 ### Baxzar Platform
 Full-stack e-commerce solution featuring user authentication, product management, shopping cart, and Stripe payment integration. Built with Next.js frontend and Django REST API backend.
 - Tech: Next.js 15, TypeScript, Django, DRF, PostgreSQL, Stripe, Tailwind CSS, AWS
 - URL: https://www.baxzar.com
 
+### Portfolio Website
+Modern portfolio site built with Next.js 16 and React Query. Demonstrates advanced Next.js patterns including Server Components, React Query for data fetching, and a Perry the Platypus-inspired color scheme.
+- Tech: Next.js 16, React 19, TypeScript, React Query, Tailwind CSS 4, Shadcn/UI
+- URL: https://lunyco.com
+
+### r/Jure Sanguinis
+Professional legal services platform for Italian citizenship by descent. Features client management, document tracking, and automated workflow tracking.
+- Tech: Next.js, TypeScript, React, Tailwind CSS, Vercel
+- URL: https://www.rjuresanguinis.com/
+
+### Subsidies.io
+AI-powered platform for discovering government subsidies and grants. Uses intelligent matching algorithms to help businesses and individuals find relevant funding opportunities.
+- Tech: Next.js, TypeScript, AI/ML, PostgreSQL, Tailwind CSS, OpenAI
+- URL: https://www.subsidies.io/
+
+## All Projects
+
+### DevPack Group
+Software development agency website showcasing services and portfolio. Features modern design, service offerings, portfolio showcases, and client testimonials.
+- Tech: Next.js, TypeScript, React, Tailwind CSS, Framer Motion, Vercel
+- URL: https://devpackgroup.com/
+
+### Enlaces Automotrices
+Automotive parts and services B2B platform connecting suppliers with mechanics and repair shops. Features inventory management, order processing, and logistics coordination.
+- Tech: Next.js, TypeScript, PostgreSQL, Tailwind CSS, Node.js, AWS
+- URL: https://www.enlacesautomotrices.com/
+
 ## Navigation
 - Home: https://lunyco.com/
 - Projects: https://lunyco.com/projects
 - Blog: https://lunyco.com/blog
+- Resume: https://lunyco.com/resume
 - Contact: https://lunyco.com/contact
 
 ## Sitemap
 https://lunyco.com/sitemap.xml
 
 ## Last Updated
-November 18, 2025
+February 21, 2026

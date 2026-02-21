@@ -46,7 +46,7 @@
     "html": "<h2>About This Project</h2><p>This portfolio site demonstrates modern web development practices with the latest React and Next.js features.</p><h3>Features</h3><ul><li>GitHub stats integration with React Query</li><li>Perry the Platypus-inspired color palette</li><li>Shadcn/UI component library</li><li>SEO optimized with structured data</li><li>Responsive design with mobile navigation</li></ul>"
   },
   {
-    "title": "RJ Ure Sanguinis",
+    "title": "r/Jure Sanguinis",
     "slug": "rj-ure-sanguinis",
     "excerpt": "Legal services platform specializing in Italian citizenship by descent.",
     "date": "2024-08-15",
