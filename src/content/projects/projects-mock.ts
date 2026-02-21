@@ -12,6 +12,8 @@ const projects: Project[] = [
     tech: ['Next.js 15', 'TypeScript', 'Django', 'DRF', 'PostgreSQL', 'Stripe', 'Tailwind CSS', 'AWS'],
     live: 'https://www.baxzar.com',
     repo: 'private-repo',
+    featured: true,
+    featuredOrder: 1,
     html: `
       <h2>Overview</h2>
       <p>This e-commerce platform demonstrates modern full-stack development practices with a focus on performance, security, and user experience.</p>
@@ -41,6 +43,8 @@ const projects: Project[] = [
     tech: ['Next.js 16', 'React 19', 'TypeScript', 'React Query', 'Tailwind CSS 4', 'Shadcn/UI'],
     live: 'https://lunyco.com',
     repo: 'https://github.com/cor14095/lunyco-backend',
+    featured: true,
+    featuredOrder: 2,
     html: `
       <h2>About This Project</h2>
       <p>This portfolio site demonstrates modern web development practices with the latest React and Next.js features.</p>
@@ -59,6 +63,12 @@ const projects: Project[] = [
 
 export function getAllProjects() {
   return projects;
+}
+
+export function getFeaturedProjects() {
+  return projects
+    .filter(p => p.featured)
+    .sort((a, b) => (a.featuredOrder || 0) - (b.featuredOrder || 0));
 }
 
 export function getProjectBySlug(slug: string) {

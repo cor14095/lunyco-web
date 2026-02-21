@@ -10,4 +10,6 @@ export interface Project {
   live?: string;
   repo: string;
   html: string;
+  featured?: boolean;
+  featuredOrder?: number;
 }
