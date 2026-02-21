@@ -1,0 +1,131 @@
+[
+  {
+    "title": "Baxzar Platform",
+    "slug": "baxzar-platform",
+    "excerpt": "Full-stack e-commerce solution with Next.js and Django REST API.",
+    "date": "2024-10-01",
+    "content": "A complete e-commerce platform featuring user authentication, product management, shopping cart, and payment integration.",
+    "image": "/baxzar.jpg",
+    "summary": "Modern e-commerce platform built with Next.js frontend and Django REST API backend, featuring Stripe payments, admin dashboard, and responsive design.",
+    "tech": [
+      "Next.js 15",
+      "TypeScript",
+      "Django",
+      "DRF",
+      "PostgreSQL",
+      "Stripe",
+      "Tailwind CSS",
+      "AWS"
+    ],
+    "live": "https://www.baxzar.com",
+    "repo": "private-repo",
+    "featured": true,
+    "featuredOrder": 1,
+    "html": "<h2>Overview</h2><p>This e-commerce platform demonstrates modern full-stack development practices with a focus on performance, security, and user experience.</p><h3>Key Features</h3><ul><li>User authentication and authorization</li><li>Product catalog with search and filtering</li><li>Shopping cart and checkout process</li><li>Stripe payment integration</li><li>Admin dashboard for inventory management</li><li>Responsive design for all devices</li></ul><h3>Technical Highlights</h3><p>The frontend uses Next.js 15 with TypeScript for type safety and modern React features. The backend is built with Django REST Framework, providing a robust API for all operations.</p>"
+  },
+  {
+    "title": "Portfolio Website",
+    "slug": "portfolio-website",
+    "excerpt": "Modern portfolio site built with Next.js 16 and React Query.",
+    "date": "2025-11-18",
+    "content": "Personal portfolio showcasing projects, blog posts, and professional experience with modern web technologies.",
+    "image": "/lunyco.png",
+    "summary": "This portfolio demonstrates advanced Next.js patterns including Server Components, React Query for data fetching, and a Perry the Platypus-inspired color scheme.",
+    "tech": [
+      "Next.js 16",
+      "React 19",
+      "TypeScript",
+      "React Query",
+      "Tailwind CSS 4",
+      "Shadcn/UI"
+    ],
+    "live": "https://lunyco.com",
+    "repo": "https://github.com/cor14095/lunyco-backend",
+    "featured": true,
+    "featuredOrder": 2,
+    "html": "<h2>About This Project</h2><p>This portfolio site demonstrates modern web development practices with the latest React and Next.js features.</p><h3>Features</h3><ul><li>GitHub stats integration with React Query</li><li>Perry the Platypus-inspired color palette</li><li>Shadcn/UI component library</li><li>SEO optimized with structured data</li><li>Responsive design with mobile navigation</li></ul>"
+  },
+  {
+    "title": "r/Jure Sanguinis",
+    "slug": "rj-ure-sanguinis",
+    "excerpt": "Legal services platform specializing in Italian citizenship by descent.",
+    "date": "2024-08-15",
+    "content": "A comprehensive platform for managing Italian citizenship applications through jure sanguinis (right of blood), featuring client management, document tracking, and case status updates.",
+    "summary": "Professional legal services platform built with modern web technologies, helping individuals obtain Italian citizenship through ancestry. Features include client portal, document management, and automated workflow tracking.",
+    "tech": [
+      "Next.js",
+      "TypeScript",
+      "React",
+      "Tailwind CSS",
+      "Vercel"
+    ],
+    "live": "https://www.rjuresanguinis.com/",
+    "repo": "private-repo",
+    "featured": true,
+    "featuredOrder": 3,
+    "html": "<h2>Overview</h2><p>RJ Ure Sanguinis is a specialized legal services platform focused on Italian citizenship by descent. The platform streamlines the complex process of obtaining Italian citizenship through ancestry.</p><h3>Key Features</h3><ul><li>Client management system</li><li>Document tracking and verification</li><li>Case status updates and notifications</li><li>Secure client portal</li><li>Multilingual support (English/Portuguese)</li><li>Professional legal documentation</li></ul><h3>Technical Implementation</h3><p>Built with Next.js for optimal performance and SEO. The platform uses modern React patterns and TypeScript for type safety, ensuring a robust and maintainable codebase.</p>"
+  },
+  {
+    "title": "Subsidies.io",
+    "slug": "subsidies-io",
+    "excerpt": "AI-powered platform for discovering government subsidies and grants.",
+    "date": "2024-09-20",
+    "content": "An intelligent platform that helps businesses and individuals discover relevant government subsidies, grants, and funding opportunities using AI-powered matching algorithms.",
+    "summary": "AI-driven subsidy discovery platform that matches users with relevant government funding opportunities. Features advanced search, personalized recommendations, and application tracking.",
+    "tech": [
+      "Next.js",
+      "TypeScript",
+      "AI/ML",
+      "PostgreSQL",
+      "Tailwind CSS",
+      "OpenAI"
+    ],
+    "live": "https://www.subsidies.io/",
+    "repo": "private-repo",
+    "featured": true,
+    "featuredOrder": 4,
+    "html": "<h2>Overview</h2><p>Subsidies.io leverages artificial intelligence to help businesses and individuals find relevant government subsidies and funding opportunities. The platform aggregates data from multiple sources and uses smart matching algorithms.</p><h3>Key Features</h3><ul><li>AI-powered subsidy matching</li><li>Personalized recommendations</li><li>Real-time database of opportunities</li><li>Application tracking and reminders</li><li>Eligibility assessment tools</li><li>Multi-jurisdiction support</li></ul><h3>Technical Highlights</h3><p>The platform integrates OpenAI APIs for intelligent matching and uses advanced data processing pipelines to keep subsidy information current and accurate.</p>"
+  },
+  {
+    "title": "DevPack Group",
+    "slug": "devpack-group",
+    "excerpt": "Software development agency website showcasing services and portfolio.",
+    "date": "2024-07-10",
+    "content": "Corporate website for DevPack Group, a software development agency specializing in custom web applications, mobile apps, and digital transformation services.",
+    "image": "/devpack.png",
+    "summary": "Professional agency website featuring modern design, service offerings, portfolio showcases, and client testimonials. Built with performance and conversion optimization in mind.",
+    "tech": [
+      "Next.js",
+      "TypeScript",
+      "React",
+      "Tailwind CSS",
+      "Framer Motion",
+      "Vercel"
+    ],
+    "live": "https://devpackgroup.com/",
+    "repo": "private-repo",
+    "featured": false,
+    "html": "<h2>Overview</h2><p>DevPack Group's corporate website showcases the agency's expertise in custom software development, featuring an impressive portfolio and comprehensive service descriptions.</p><h3>Key Features</h3><ul><li>Responsive modern design</li><li>Interactive portfolio gallery</li><li>Service pages with detailed information</li><li>Client testimonials and case studies</li><li>Contact and consultation forms</li><li>Blog and resources section</li></ul><h3>Technical Implementation</h3><p>Built with Next.js 14+ for optimal performance and SEO. Features smooth animations using Framer Motion and a fully responsive design that works seamlessly across all devices.</p>"
+  },
+  {
+    "title": "Enlaces Automotrices",
+    "slug": "enlaces-automotrices",
+    "excerpt": "Automotive parts and services platform connecting suppliers and mechanics.",
+    "date": "2024-06-05",
+    "content": "B2B platform for the automotive industry, connecting parts suppliers with mechanics and repair shops. Features inventory management, order processing, and logistics coordination.",
+    "image": "/enlaces.png",
+    "summary": "Comprehensive automotive industry platform facilitating connections between parts suppliers and repair professionals. Includes real-time inventory, order management, and delivery tracking.",
+    "tech": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "Tailwind CSS",
+      "Node.js",
+      "AWS"
+    ],
+    "live": "https://www.enlacesautomotrices.com/",
+    "repo": "private-repo",
+    "featured": false,
+    "html": "<h2>Overview</h2><p>Enlaces Automotrices revolutionizes the automotive parts supply chain by providing a digital platform that connects suppliers directly with mechanics and repair shops.</p><h3>Key Features</h3><ul><li>Real-time inventory management</li><li>Order processing and tracking</li><li>Supplier and buyer profiles</li><li>Search and filtering by part specifications</li><li>Delivery coordination and logistics</li><li>Invoice and payment management</li></ul><h3>Technical Architecture</h3><p>The platform uses a modern stack with Next.js frontend and Node.js backend, leveraging AWS for scalable infrastructure. PostgreSQL database ensures data integrity for critical business operations.</p>"
+  }
+]
